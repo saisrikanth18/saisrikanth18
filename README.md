@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sh1nine96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srikanthmsn34" height="30" width="40" /></a>
+<a href="https://twitter.com/Shubh1nine96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srikanthmsn34" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dommeti-s-364a36ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dommeti-s-364a36ba" height="30" width="40" /></a>
 <a href="https://fb.com/saisrikanth1818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saisrikanth1818" height="30" width="40" /></a>
 <a href="https://instagram.com/sai_srikanth_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_srikanth_18" height="30" width="40" /></a>
