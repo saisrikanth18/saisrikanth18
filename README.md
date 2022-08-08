@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Spring MVC and Spring Boot projects**
 
-- 👨‍💻 Some of my projects are available at [https://eportfolio.mygreatlearning.com/dommeti-sai-srikanth](https://eportfolio.mygreatlearning.com/dommeti-sai-srikanth)
+- 👨‍💻 Some of my projects are available at <a href="https://eportfolio.mygreatlearning.com/dommeti-sai-srikanth">My Portfolio</a>
 
 - 💬 Ask me about **JAVA, DSA, MySQL, Hibernate, Spring**
 
