@@ -15,7 +15,7 @@
 
 - 👨‍💻 Some of my projects are available at <a href="https://eportfolio.mygreatlearning.com/dommeti-sai-srikanth">My Portfolio</a>
 
-- 💬 Ask me about **JAVA, DSA, MySQL, Hibernate, Spring**
+- 💬 Ask me about **JAVA, DSA, MySQL, Hibernate, Spring, HTML, CSS**
 
 - 📫 How to reach me **ddssrikanth@gmail.com**
 
